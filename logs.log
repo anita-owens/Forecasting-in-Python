@@ -1,0 +1,95 @@
+2022-06-12 20:15:08,195:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-06-12 20:15:08,196:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-06-12 20:15:08,197:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-06-12 20:15:08,198:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-06-12 20:16:54,674:INFO:PyCaret RegressionExperiment
+2022-06-12 20:16:54,675:INFO:Logging name: reg-default-name
+2022-06-12 20:16:54,675:INFO:ML Usecase: MLUsecase.REGRESSION
+2022-06-12 20:16:54,675:INFO:version 3.0.0.rc2
+2022-06-12 20:16:54,676:INFO:Initializing setup()
+2022-06-12 20:16:54,676:INFO:self.USI: 6cb1
+2022-06-12 20:16:54,676:INFO:self.variable_keys: {'_all_models', 'X', '_all_models_internal', 'logging_param', 'seed', 'target_param', 'transform_target_param', 'exp_name_log', 'X_test', 'variable_keys', '_available_plots', 'n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'master_model_container', 'fold_groups_param', 'exp_id', 'display_container', '_all_metrics', 'data', 'html_param', 'X_train', 'transform_target_method_param', 'idx', 'y_test', '_gpu_n_jobs_param', '_ml_usecase', 'pipeline', 'y', 'y_train', 'gpu_param', 'fold_shuffle_param', 'memory'}
+2022-06-12 20:16:54,676:INFO:Checking environment
+2022-06-12 20:16:54,676:INFO:python_version: 3.9.7
+2022-06-12 20:16:54,676:INFO:python_build: ('default', 'Sep 16 2021 08:50:36')
+2022-06-12 20:16:54,676:INFO:machine: x86_64
+2022-06-12 20:16:54,676:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:16:54,676:INFO:Memory: svmem(total=8589934592, available=2531127296, percent=70.5, used=4319363072, free=16584704, active=2516271104, inactive=2513260544, wired=1803091968)
+2022-06-12 20:16:54,676:INFO:Physical Core: 2
+2022-06-12 20:16:54,676:INFO:Logical Core: 4
+2022-06-12 20:16:54,676:INFO:Checking libraries
+2022-06-12 20:16:54,676:INFO:System:
+2022-06-12 20:16:54,677:INFO:    python: 3.9.7 (default, Sep 16 2021, 08:50:36)  [Clang 10.0.0 ]
+2022-06-12 20:16:54,677:INFO:executable: /opt/anaconda3/bin/python
+2022-06-12 20:16:54,677:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:16:54,677:INFO:PyCaret required dependencies:
+2022-06-12 20:16:54,682:WARNING:/opt/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:30: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2022-06-12 20:18:34,435:INFO:PyCaret RegressionExperiment
+2022-06-12 20:18:34,436:INFO:Logging name: reg-default-name
+2022-06-12 20:18:34,437:INFO:ML Usecase: MLUsecase.REGRESSION
+2022-06-12 20:18:34,437:INFO:version 3.0.0.rc2
+2022-06-12 20:18:34,437:INFO:Initializing setup()
+2022-06-12 20:18:34,437:INFO:self.USI: 2415
+2022-06-12 20:18:34,437:INFO:self.variable_keys: {'_all_models', 'X', '_all_models_internal', 'logging_param', 'seed', 'target_param', 'transform_target_param', 'exp_name_log', 'X_test', 'variable_keys', '_available_plots', 'n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'master_model_container', 'fold_groups_param', 'exp_id', 'display_container', '_all_metrics', 'data', 'html_param', 'X_train', 'transform_target_method_param', 'idx', 'y_test', '_gpu_n_jobs_param', '_ml_usecase', 'pipeline', 'y', 'y_train', 'gpu_param', 'fold_shuffle_param', 'memory'}
+2022-06-12 20:18:34,437:INFO:Checking environment
+2022-06-12 20:18:34,438:INFO:python_version: 3.9.7
+2022-06-12 20:18:34,438:INFO:python_build: ('default', 'Sep 16 2021 08:50:36')
+2022-06-12 20:18:34,438:INFO:machine: x86_64
+2022-06-12 20:18:34,439:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:18:34,439:INFO:Memory: svmem(total=8589934592, available=2509070336, percent=70.8, used=4294574080, free=15101952, active=2496147456, inactive=2479718400, wired=1798426624)
+2022-06-12 20:18:34,439:INFO:Physical Core: 2
+2022-06-12 20:18:34,439:INFO:Logical Core: 4
+2022-06-12 20:18:34,439:INFO:Checking libraries
+2022-06-12 20:18:34,439:INFO:System:
+2022-06-12 20:18:34,439:INFO:    python: 3.9.7 (default, Sep 16 2021, 08:50:36)  [Clang 10.0.0 ]
+2022-06-12 20:18:34,439:INFO:executable: /opt/anaconda3/bin/python
+2022-06-12 20:18:34,439:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:18:34,440:INFO:PyCaret required dependencies:
+2022-06-12 20:22:48,505:INFO:PyCaret RegressionExperiment
+2022-06-12 20:22:48,510:INFO:Logging name: reg-default-name
+2022-06-12 20:22:48,511:INFO:ML Usecase: MLUsecase.REGRESSION
+2022-06-12 20:22:48,511:INFO:version 3.0.0.rc2
+2022-06-12 20:22:48,512:INFO:Initializing setup()
+2022-06-12 20:22:48,512:INFO:self.USI: 167e
+2022-06-12 20:22:48,512:INFO:self.variable_keys: {'_all_models', 'X', '_all_models_internal', 'logging_param', 'seed', 'target_param', 'transform_target_param', 'exp_name_log', 'X_test', 'variable_keys', '_available_plots', 'n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'master_model_container', 'fold_groups_param', 'exp_id', 'display_container', '_all_metrics', 'data', 'html_param', 'X_train', 'transform_target_method_param', 'idx', 'y_test', '_gpu_n_jobs_param', '_ml_usecase', 'pipeline', 'y', 'y_train', 'gpu_param', 'fold_shuffle_param', 'memory'}
+2022-06-12 20:22:48,512:INFO:Checking environment
+2022-06-12 20:22:48,513:INFO:python_version: 3.9.7
+2022-06-12 20:22:48,513:INFO:python_build: ('default', 'Sep 16 2021 08:50:36')
+2022-06-12 20:22:48,513:INFO:machine: x86_64
+2022-06-12 20:22:48,513:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:22:48,515:INFO:Memory: svmem(total=8589934592, available=2563522560, percent=70.2, used=4331040768, free=19275776, active=2545123328, inactive=2543104000, wired=1785917440)
+2022-06-12 20:22:48,515:INFO:Physical Core: 2
+2022-06-12 20:22:48,516:INFO:Logical Core: 4
+2022-06-12 20:22:48,516:INFO:Checking libraries
+2022-06-12 20:22:48,516:INFO:System:
+2022-06-12 20:22:48,516:INFO:    python: 3.9.7 (default, Sep 16 2021, 08:50:36)  [Clang 10.0.0 ]
+2022-06-12 20:22:48,517:INFO:executable: /opt/anaconda3/bin/python
+2022-06-12 20:22:48,517:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:22:48,519:INFO:PyCaret required dependencies:
+2022-06-12 20:23:27,048:INFO:PyCaret RegressionExperiment
+2022-06-12 20:23:27,050:INFO:Logging name: reg-default-name
+2022-06-12 20:23:27,050:INFO:ML Usecase: MLUsecase.REGRESSION
+2022-06-12 20:23:27,051:INFO:version 3.0.0.rc2
+2022-06-12 20:23:27,051:INFO:Initializing setup()
+2022-06-12 20:23:27,051:INFO:self.USI: 407f
+2022-06-12 20:23:27,052:INFO:self.variable_keys: {'_all_models', 'X', '_all_models_internal', 'logging_param', 'seed', 'target_param', 'transform_target_param', 'exp_name_log', 'X_test', 'variable_keys', '_available_plots', 'n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'master_model_container', 'fold_groups_param', 'exp_id', 'display_container', '_all_metrics', 'data', 'html_param', 'X_train', 'transform_target_method_param', 'idx', 'y_test', '_gpu_n_jobs_param', '_ml_usecase', 'pipeline', 'y', 'y_train', 'gpu_param', 'fold_shuffle_param', 'memory'}
+2022-06-12 20:23:27,052:INFO:Checking environment
+2022-06-12 20:23:27,053:INFO:python_version: 3.9.7
+2022-06-12 20:23:27,053:INFO:python_build: ('default', 'Sep 16 2021 08:50:36')
+2022-06-12 20:23:27,053:INFO:machine: x86_64
+2022-06-12 20:23:27,053:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:23:27,053:INFO:Memory: svmem(total=8589934592, available=2547220480, percent=70.3, used=4288622592, free=56635392, active=2494414848, inactive=2489110528, wired=1794207744)
+2022-06-12 20:23:27,053:INFO:Physical Core: 2
+2022-06-12 20:23:27,053:INFO:Logical Core: 4
+2022-06-12 20:23:27,053:INFO:Checking libraries
+2022-06-12 20:23:27,053:INFO:System:
+2022-06-12 20:23:27,053:INFO:    python: 3.9.7 (default, Sep 16 2021, 08:50:36)  [Clang 10.0.0 ]
+2022-06-12 20:23:27,053:INFO:executable: /opt/anaconda3/bin/python
+2022-06-12 20:23:27,053:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2022-06-12 20:23:27,053:INFO:PyCaret required dependencies:
